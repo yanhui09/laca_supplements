@@ -21,5 +21,7 @@ The min alignment identity and cover of BLAST hits are 0.97 and 0.99, respective
 
 Supplementary Table 9. The best BLAST hit of the Peptostreptococcaceae OTUs against the curated EzBioCloud database for 16S rRNA gene sequences. [table_s9](/table_supp/t9_Criibacterium_bergeroniiz_ncbi.xlsx)
 
-Supplementary Table 10. Summary of the uncovered taxonomic features by Emu. [table_s10](/table_supp/t10_taxa_emu_nohit.xlsx)
+Supplementary Table 10. The BLAST hit results of OTUs annotated as unclassified lactobacilli in the control vaginal samples SRR14307925 and SRR14307926. [table_s10](/table_supp/t10_taxa_hitax_lac.xlsx)
+
+Supplementary Table 11. Summary of the uncovered taxonomic features by Emu. [table_s11](/table_supp/t11_taxa_emu_nohit.xlsx)
 The min alignment identity and cover of BLAST hits are 0.97 and 0.99, respectively. The mean relative abundance is the mean of non-zero values across all 12 samples.
